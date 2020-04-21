@@ -4,7 +4,7 @@ import Card from './Card';
 
 
 const CardArray = ({ robots }) =>
-{ if(true){throw Error("Error in Card")}
+{ 
     return (
     <div>
     {
